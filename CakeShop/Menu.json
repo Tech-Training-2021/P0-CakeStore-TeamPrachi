@@ -1,0 +1,31 @@
+{
+  "Chocolate": [
+    "Chocolate Espresso Layer Cake",
+    "Double Chocolate Cake with Raspberry Buttercream",
+    "Pecan-Studded Chocolate Sheet Cake",
+    "Chocolate Stout Cake",
+    "Chocolate Coffee Cake"
+  ],
+  "Vanilla": [
+    "Vanilla Dream Cake",
+    "Vanilla Butter Cake",
+    "One Bowl Vanilla Cake",
+    "Vegan Vanilla Birthday Cake"
+  ],
+  "Strawberry": [
+    "Red Cherry Strawberry Cake",
+    "Exotic Strawberry Cake (Eggless)",
+    "Choco Drop Strawberry Cream Cake"
+  ],
+  "Pineapple": [
+    "Rainbow Cream Pineapple Cake",
+    "Pineapple With Butterscotch Cake",
+    "Delicate Pineapple Cream Cake",
+    "Classic Pineapple Cake"
+  ],
+  "Rasmalai": [
+    "Eggless Rasmalai Cake",
+    "Mango Rasmalai Cake",
+    "Vanilla Flavored Pista Rasmalai Cake"
+  ]
+}

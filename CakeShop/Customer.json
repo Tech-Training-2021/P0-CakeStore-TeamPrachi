@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "customerName": "Mayuri Kumbhar",
+      "customerContact": 973264732,
+      "customerAddress": "sdhfjsdf"
+    },
+    {
+      "id": 3,
+      "customerName": "Pranali",
+      "customerContact": 7362462535,
+      "customerAddress": "Thane"
+    },
+    {
+      "id": 4,
+      "customerName": "Darshan Gaikwad",
+      "customerContact": 9754267895,
+      "customerAddress": "hdsgfhd hgfhdgjd gfjgd"
+    },
+    {
+      "id": 5,
+      "customerName": "te rtywe",
+      "customerContact": 6435632728,
+      "customerAddress": "dgfshg gdshfg"
+    }
+  ]
+}

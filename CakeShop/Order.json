@@ -1,0 +1,46 @@
+{
+  "Details": [
+    {
+      "id": 2,
+      "customerName": "Mayuri Kumbhar",
+      "customerContact": 973264732,
+      "customerAddress": "sdhfjsdf",
+      "order": [
+        {
+          "flavour": "Chocolate",
+          "Chocolatecake flavour": "Chocolate Coffee Cake",
+          "price": "700",
+          "description": " very delicious"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "customerName": "Mayuri Kumbhar",
+      "customerContact": 973264732,
+      "customerAddress": "sdhfjsdf",
+      "order": [
+        {
+          "flavour": "Vanilla",
+          "Vanillacake flavour": "Vegan Vanilla Birthday Cake",
+          "price": "800",
+          "description": " very delicious"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "customerName": "te rtywe",
+      "customerContact": 6435632728,
+      "customerAddress": "dgfshg gdshfg",
+      "order": [
+        {
+          "flavour": "Chocolate",
+          "Chocolatecake flavour": "Chocolate Coffee Cake",
+          "price": "800",
+          "description": " very delicious"
+        }
+      ]
+    }
+  ]
+}

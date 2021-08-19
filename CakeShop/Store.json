@@ -1,0 +1,121 @@
+{
+  "Chocolate": [
+    {
+      "Flavour": "Chocolate Espresso Layer Cake",
+      "description": " very delicious",
+      "Price": 500,
+      "Available": 10
+    },
+    {
+      "Flavour": "Double Chocolate Cake with Raspberry Buttercream",
+      "description": " very delicious",
+      "Price": 800
+    },
+    {
+      "Flavour": "Pecan-Studded Chocolate Sheet Cake",
+      "description": " very delicious",
+      "Price": 600
+    },
+    {
+      "Flavour": "Chocolate Stout Cake",
+      "description": " very delicious",
+      "Price": 500
+    },
+    {
+      "Flavour": "Chocolate Coffee Cake",
+      "description": " very delicious",
+      "Price": 700
+    }
+
+  ],
+
+  "Vanilla": [
+    {
+      "Flavour": "Vanilla Dream Cake",
+      "description": " very delicious",
+      "Price": 600,
+      "Available": 10
+    },
+    {
+      "Flavour": "Vanilla Butter Cake",
+      "description": " very delicious",
+      "Price": 500
+    },
+    {
+      "Flavour": "One Bowl Vanilla Cake",
+      "description": " very delicious",
+      "Price": 700
+    },
+    {
+      "Flavour": "Vegan Vanilla Birthday Cake",
+      "description": " very delicious",
+      "Price": 800
+    }
+
+  ],
+
+  "Strawberry": [
+    {
+      "Flavour": "Red Cherry Strawberry Cake",
+      "description": " very delicious",
+      "Price": 800,
+      "Available": 10
+    },
+    {
+      "Flavour": "Exotic Strawberry Cake (Eggless)",
+      "description": " very delicious",
+      "Price": 700
+    },
+    {
+      "Flavour": "Choco Drop Strawberry Cream Cake",
+      "description": " very delicious",
+      "Price": 500
+    }
+
+  ],
+
+  "Pineapple": [
+    {
+      "Flavour": "Rainbow Cream Pineapple Cake",
+      "description": " very delicious",
+      "Price": 750,
+      "Available": 10
+    },
+    {
+      "Flavour": "Pineapple With Butterscotch Cake",
+      "description": " very delicious",
+      "Price": 550
+    },
+    {
+      "Flavour": "Delicate Pineapple Cream Cake",
+      "description": " very delicious",
+      "Price": 580
+    },
+    {
+      "Flavour": "Classic Pineapple Cake",
+      "description": " very delicious",
+      "Price": 600
+    }
+  ],
+
+  "Rasmalai": [
+    {
+      "Flavour": "Eggless Rasmalai Cake",
+      "description": " very delicious",
+      "Price": 600,
+      "Available": 10
+    },
+    {
+      "Flavour": "Mango Rasmalai Cake",
+      "description": " very delicious",
+      "Price": 700
+    },
+    {
+      "Flavour": "Vanilla Flavored Pista Rasmalai Cake",
+      "description": " very delicious",
+      "Price": 650
+    }
+
+
+  ]
+}
